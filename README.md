@@ -1,1 +1,1 @@
-Git project for learning.
+Git project for learning
