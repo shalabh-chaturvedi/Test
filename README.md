@@ -1,1 +1,1 @@
-Git project for learning
+Sample README file
