@@ -1,4 +1,4 @@
-package com.example.test;
+package com.example.test.pair;
 
 import org.springframework.data.util.Pair;
 
